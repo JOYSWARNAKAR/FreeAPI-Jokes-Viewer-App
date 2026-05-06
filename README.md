@@ -34,6 +34,12 @@ src/
 └── main.jsx
 ```
 
+## Screenshot
+
+![alt text](<public/Screenshot (990).png>)
+
+![alt text](<public/Screenshot (991).png>)
+
 ## ⚙️ Installation
 
 Clone the project:
